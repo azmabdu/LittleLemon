@@ -1,5 +1,6 @@
 # LittleLemon
-**Meta's APIs course final project**
+Django Rest Framework Project
+**Meta's REST APIs course final project**
 
 Setup 
 1. `git clone https://github.com/azmabdu/LittleLemon.git`
