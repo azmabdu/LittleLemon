@@ -7,18 +7,13 @@ Setup
 2. `pipenv install`
 3. `python manage.py runserver`
 
-Routers:
 Routes:
-
 /api/menu-items
 /api/menu-items/<int:id>
-
 /api/tables
 /api/tables/<int:id>
-
 /api/users
 /api/users/me
-
 /api/token/login
 /api/token/logout
 
